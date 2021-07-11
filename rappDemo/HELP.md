@@ -1,6 +1,6 @@
 # Getting Started
 
-I am using the like query to fetch the top 10 data from the database. Query is pulling top 10 records based on the zipcode and i am doing the pattern matching.
+I am using the 'like' to fetch users based on give zipcode and limit the query result to only 10 records. Query is pulling top 10 records based on the zipcode and i am doing the pattern matching. My assumption with DB Is that I only have 1 user per zip code.
 
 
 ### Reference Documentation
