@@ -1,6 +1,7 @@
 # Getting Started
 
-I am using the like query to fetch the top 10 data from the database.
+I am using the like query to fetch the top 10 data from the database. Query is pulling top 10 records based on the zipcode and i am doing the pattern matching.
+
 
 ### Reference Documentation
 
